@@ -3,7 +3,7 @@
 #include <conio.h>// getch icin
 #include <unistd.h>// ctrcpy ve time komutlari icin
 #include <time.h>// srand icin
-int musteriSayi=20;
+int musteriSayi=10;
 #define vezneSayi 3
 #define bekle  0//eger islemleri adim adim gormek istiyorsaniz 1 yapiniz.
 int ilgilenenMusteri=0;						//
